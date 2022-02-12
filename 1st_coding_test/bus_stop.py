@@ -1,4 +1,5 @@
 import sys
+#3번 문제
 
 def solution(city):
     city_index = []
